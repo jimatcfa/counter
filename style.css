@@ -8,7 +8,7 @@ body {
     align-items: center;
 }
 
-.btn {
+button {
     border-radius: 8px;
     border: none;
     width: 7em;
