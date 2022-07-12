@@ -3,7 +3,7 @@ let buttonClicked = function(){
 }
 
 let addListeners = function(btn){
-    btn.addEventListener("clicked", buttonClicked);
+    btn.addEventListener("click", buttonClicked);
 }
 
 let count = 0;
